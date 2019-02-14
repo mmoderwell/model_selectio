@@ -65,6 +65,10 @@ To use these model selection tools, you'll need to:
 
 <br/>
 
+![distribution_metric function](https://github.com/nousot/model_selection/blob/master/img/distribution2.png "")
+
+<br/>
+
 
 ## Example Notebook
 Within `/notebooks`, you can try out these functions by running the analysis notebook.
