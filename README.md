@@ -36,8 +36,10 @@ To use these model selection tools, you'll need to:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optional: visualize (Bool), verbose (Bool)
 
 **Returns:** returns accuracy, optionally prints other metrics and a performance visualization
+<br/>
 
 ![performance function](https://github.com/nousot/model_selection/blob/master/img/performance.png "")
+
 
 <br/>
 #### 2) distribution_metric
@@ -50,8 +52,10 @@ To use these model selection tools, you'll need to:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optional: precision (int), visualize (Bool), verbose (Bool)
 
 **Returns:** prints the calculated percentage of predictions outside of 1 standard deviation from the mean number of predictions at each probability, optionally draws a visualization
+<br/>
 
 ![distribution_metric function](https://github.com/nousot/model_selection/blob/master/img/distribution.png "")
+
 
 <br/>
 ## Authors
