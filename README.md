@@ -66,6 +66,12 @@ To use these model selection tools, you'll need to:
 <br/>
 
 
+## Example Notebook
+Within `/notebooks`, you can try out these functions by running the analysis notebook.
+However, you should first install the extra pacakges.
+
+      $ pip install -r requirements.txt
+
 ## Authors
 * **Matt Moderwell** - *Initial work* - [mmoderwell.com](https://mmoderwell.com)
 * **Vanessa Tang** - *Initial work*
