@@ -27,6 +27,7 @@ To use these model selection tools, you'll need to:
 ## Using the functions
 
 #### 1) performance
+
 ```python
     import analysis
     analysis.performance(estimated, actual, visualize=True, verbose=True):
@@ -43,6 +44,7 @@ To use these model selection tools, you'll need to:
 
 <br/>
 #### 2) distribution_metric
+
 ```python
     import analysis
     analysis.distribution_metric(estimated, actual, precision=2, visualize=True, verbose=True):
