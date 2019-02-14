@@ -1,13 +1,14 @@
 # model_selection
----
 ##### A set of Python 3 tools to compare the performance and metrics of different ML models
-\
+<br/>
+
 ## Features
 * Preprocessing functions to read in CSV data and manipulate it
 * Functions that return a number of essential metrics on model performance
 * Generates visualizations to better understand the model
 
-\
+<br/>
+
 ## Setup
 
 To use these model selection tools, you'll need to:
@@ -22,7 +23,7 @@ To use these model selection tools, you'll need to:
       $ cp analysis.py ../path/to/project
       $ pip3 install numpy matplotlib matplotlib_venn seaborn
 
-\
+<br/>
 ## Using the functions
 
 #### 1) performance
@@ -36,7 +37,9 @@ To use these model selection tools, you'll need to:
 
 **Returns:** returns accuracy, optionally prints other metrics and a performance visualization
 
-\
+![performance function](https://github.com/nousot/model_selection/blob/master/img/performance.png "")
+
+<br/>
 #### 2) distribution_metric
 ```python
     import analysis
@@ -48,7 +51,9 @@ To use these model selection tools, you'll need to:
 
 **Returns:** prints the calculated percentage of predictions outside of 1 standard deviation from the mean number of predictions at each probability, optionally draws a visualization
 
-\
+![distribution_metric function](https://github.com/nousot/model_selection/blob/master/img/distribution.png "")
+
+<br/>
 ## Authors
 * **Matt Moderwell** - *Initial work* - [mmoderwell.com](https://mmoderwell.com)
 * **Vanessa Tang** - *Initial work*
