@@ -15,7 +15,7 @@ To use these model selection tools, you'll need to:
 
 * Clone this repository:
 
-      $ git clone https://github.com/nousot/model_selection.git
+      $ git clone https://github.com/mmoderwell/model_selection.git
       $ cd model_selection
       
 * Copy `analysis.py` to your project directory, install packages:
@@ -61,11 +61,11 @@ To use these model selection tools, you'll need to:
 
 <br/>
 
-![distribution_metric function](https://github.com/nousot/model_selection/blob/master/img/distribution.png "")
+![distribution_metric function](https://github.com/mmoderwell/model_selection/blob/master/img/distribution.png "")
 
 <br/>
 
-![distribution_metric function](https://github.com/nousot/model_selection/blob/master/img/distribution2.png "")
+![distribution_metric function](https://github.com/mmoderwell/model_selection/blob/master/img/distribution2.png "")
 
 <br/>
 
@@ -78,6 +78,5 @@ However, you should first install the extra pacakges.
 
 ## Authors
 * **Matt Moderwell** - *Initial work* - [mmoderwell.com](https://mmoderwell.com)
-* **Vanessa Tang** - *Initial work*
 
 Also see the list of [contributors](https://github.com/mmoderwell/api_monitoring/contributors) who participated in this project.
